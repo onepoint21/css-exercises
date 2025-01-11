@@ -1,9 +1,9 @@
-p {
+.oddNumber {
     background-color: pink;
     font-family: Verdana, Geneva, Tahoma, DejaVu sans, sans-serif;
 }
 
-.oddCooler {
+.cooler {
     font-size: 24px;
 }
 
@@ -14,6 +14,5 @@ p {
 
 #num4 {
     background-color: lightgreen;
-    font-size: 24px;
     font-weight: 700;
 }
